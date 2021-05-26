@@ -1,1 +1,4 @@
-# Open-Source-Technologies-with-Shell
+# `Open source technologies with Shell helpers`
+
+Basic routines and workflows in shell.
+
